@@ -23,7 +23,7 @@ public class MenuBombaCombustivel {
 			System.out.println("1 - LIBERAR");
 			System.out.println("2 - ABASTECER");
 			System.out.println("3 - ATUALIZAR PREÇO");
-			System.out.println("4 - ATUALIZAR PREÇO");
+			System.out.println("4 - IMPRIMIR INFORMAÇÕES DA BOMBA!");
 			System.out.println("5 - EXIBIR MÉDIA DO PREÇO");
 			System.out.println("6 - BLOQUEAR BOMBA");
 			System.out.println("7 - LIBERAR(GERENTE)");
